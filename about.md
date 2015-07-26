@@ -11,20 +11,28 @@ permalink: /about/
 
 **Fun facts**
 
-- I've cleaned a triceratops
-- I know how to solder
-- I lived in Vienna for six months
+- I've cleaned a triceratops.
+- I know how to solder.
+- I lived in Vienna for six months.
+    - My German skills are limited (see below)
 
+
+**Things I can say in German after living in Vienna for six months**
+
+- "Where is the train station?"
+- "I would like one kilo of carrots."
+- "What is wrong with you?"
+- "My German is not very good."
+ 
  
 **Spirit animal**
 
 - Velociraptor
 
 
-**Favorite beer**
+**Favorite food**
 
-- PBR
-
+- Everything bagels
 
 
 ### Contact
