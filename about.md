@@ -4,17 +4,30 @@ title: About
 permalink: /about/
 ---
 
+##Important facts
+
 **Current employment**
 
 - Associate Product Manager on the Discovery & Payments team at [Paperless Post](www.paperlesspost.com)
 
+
+**Spirit animal**
+
+- Velociraptor
+
+
+**Favorite food**
+
+- Egg everything bagels
+
+
+##Less important information
 
 **Fun facts**
 
 - I've cleaned a triceratops.
 - I know how to solder.
 - I lived in Vienna for six months.
-    - My German skills are limited (see below)
 
 
 **Things I can say in German after living in Vienna for six months**
@@ -24,15 +37,7 @@ permalink: /about/
 - "What is wrong with you?"
 - "My German is not very good."
  
- 
-**Spirit animal**
 
-- Velociraptor
-
-
-**Favorite food**
-
-- Everything bagels
 
 
 ### Contact
