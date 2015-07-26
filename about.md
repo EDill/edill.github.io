@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-##Important facts
+#Important facts
+---
 
 **Current employment**
 
@@ -21,7 +22,8 @@ permalink: /about/
 - Egg everything bagels
 
 
-##Less important information
+#Less important information
+---
 
 **Fun facts**
 
@@ -42,7 +44,8 @@ permalink: /about/
 - "Can you please Dill out."
 
 
-### Contact
+# Contact
+---
 
 [via email](mailto:emmakmdill@gmail.com)  <br />
 [via LinkedIn](https://www.linkedin.com/in/emmadill)
