@@ -9,7 +9,7 @@ permalink: /about/
 
 **Current employment**
 
-- Associate Product Manager on the Discovery & Payments team at [Paperless Post](www.paperlesspost.com)
+- Associate Product Manager on the Discovery & Payments team at Paperless Post
 
 
 **Spirit animal**
@@ -37,8 +37,7 @@ permalink: /about/
 - "Where is the train station?"
 - "I would like one kilo of carrots."
 - "What is wrong with you?"
-- "My German is not very good."
- 
+
 **Favorite joke related to my last name being "Dill"**
 
 - "Can you please Dill out."
