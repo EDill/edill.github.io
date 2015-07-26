@@ -25,5 +25,5 @@ permalink: /emma/
 
 ### Contact
 
-[via email](mailto:emmakmdill@gmail.com) </br>
+[via email](mailto:emmakmdill@gmail.com)  <br />
 [via LinkedIn](https://www.linkedin.com/in/emmadill)
