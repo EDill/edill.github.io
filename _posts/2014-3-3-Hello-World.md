@@ -3,8 +3,4 @@ layout: post
 title: Hi
 ---
 
-##Hello
-
-My name's Emma. 
-
-I live in Brooklyn, and manage products.
+![](https://40.media.tumblr.com/73cf72e850e31195797b1143cdb126be/tumblr_ns495cJB541rloozgo3_540.jpg)
