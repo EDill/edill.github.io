@@ -5,6 +5,6 @@ title: Hi
 
 ##Hello
 
-My name's Emma Dill. 
+My name's Emma. 
 
-I live in Brooklyn, and manage products. 
+I live in Brooklyn, and manage products.
