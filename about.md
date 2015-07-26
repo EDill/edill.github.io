@@ -37,7 +37,9 @@ permalink: /about/
 - "What is wrong with you?"
 - "My German is not very good."
  
+**Favorite joke related to my last name being "Dill"**
 
+- "Can you please Dill out."
 
 
 ### Contact
