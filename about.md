@@ -28,6 +28,7 @@ permalink: /about/
 **Fun facts**
 
 - I've cleaned a triceratops.
+    - [Proof](https://41.media.tumblr.com/744540a6e6cf8187e47b0aff4f91744a/tumblr_ns495cJB541rloozgo2_500.jpg) 
 - I know how to solder.
 - I lived in Vienna for six months.
 
@@ -48,3 +49,5 @@ permalink: /about/
 
 [via email](mailto:emmakmdill@gmail.com)  <br />
 [via LinkedIn](https://www.linkedin.com/in/emmadill)
+
+![](https://40.media.tumblr.com/c2df660e0eea4ab1667437c4deb76930/tumblr_ns495cJB541rloozgo1_540.jpg)
