@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: Important facts
 permalink: /about/
 ---
 
-#Important facts
 ---
 
 **Current employment**
