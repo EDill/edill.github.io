@@ -9,7 +9,7 @@ name: Emma Katherine Marsters Dill
 description: Product Manager, Brooklyn resident
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars2.githubusercontent.com/u/5580447?v=3&s=460
+avatar: https://scontent-lga1-1.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/11425408_979881307963_4828137800041542125_n.jpg?oh=c3051cbbd27ff1d75e1c2f80a79af8d7&oe=5649F149
 
 #
 # Flags below are optional
@@ -25,7 +25,7 @@ footer-links:
   instagram: emkmd
   linkedin: emmadill
   pinterest:
-  rss: hi # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: emkmd
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
