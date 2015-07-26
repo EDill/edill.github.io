@@ -2,17 +2,9 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+ <a href="{{ site.baseurl }}/about">About</a>
+            <a href="{{ site.baseurl }}/photos">Photos</a>
+            <a href="{{ site.baseurl }}/">Home</a>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+![](https://40.media.tumblr.com/73cf72e850e31195797b1143cdb126be/tumblr_ns495cJB541rloozgo3_1280.jpg)
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
