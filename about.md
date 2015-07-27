@@ -39,7 +39,8 @@ permalink: /about/
 - "What is wrong with you?"
 
 **Current favorite gif**
-- [Fig. 1](http://i.imgur.com/QygT53q.jpg)
+
+- [This.](http://i.imgur.com/QygT53q.jpg)
 
 **Favorite joke related to my last name being "Dill"**
 
