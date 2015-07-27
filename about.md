@@ -26,7 +26,7 @@ permalink: /about/
 **Fun facts**
 
 - I've cleaned a triceratops.
-    - [Proof](https://41.media.tumblr.com/744540a6e6cf8187e47b0aff4f91744a/tumblr_ns495cJB541rloozgo2_500.jpg) 
+    - <a href="https://41.media.tumblr.com/744540a6e6cf8187e47b0aff4f91744a/tumblr_ns495cJB541rloozgo2_500.jpg" target="_blank">Proof</a> 
 - I know how to solder.
 - I was vegetarian for the first thirteen years of my life.
 - I lived in Vienna for six months.
@@ -40,7 +40,7 @@ permalink: /about/
 
 **Current favorite gif**
 
-- [This.](http://i.imgur.com/QygT53q.jpg)
+- <a href="http://i.imgur.com/QygT53q.jpg" target="_blank">This.</a>
 
 **A sampling of jokes using my last name**
 
