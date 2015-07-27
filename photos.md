@@ -4,7 +4,9 @@ title: Pictures
 permalink: /photos/
 ---
 
-I take photographs of things, here are some of them. 
+I take a lot of photograph, here are some of them. 
+
+---
 
 <div class="posts">
   {% for post in site.posts %}
