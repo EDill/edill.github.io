@@ -52,4 +52,4 @@ permalink: /about/
 [via email](mailto:emmakmdill@gmail.com)  <br />
 [via LinkedIn](https://www.linkedin.com/in/emmadill)
 
-![](https://40.media.tumblr.com/c2df660e0eea4ab1667437c4deb76930/tumblr_ns495cJB541rloozgo1_540.jpg)
+![](https://41.media.tumblr.com/c2df660e0eea4ab1667437c4deb76930/tumblr_ns495cJB541rloozgo1_1280.jpg)
