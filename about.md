@@ -15,9 +15,9 @@ permalink: /about/
 - Velociraptor
 
 
-**Favorite food**
+**Favorite jukebox song**
 
-- Egg everything bagels
+- Bruce Springsteen's "Thunder Road"
 
 
 #Arguably less important information
