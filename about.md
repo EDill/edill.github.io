@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Important facts
+title: Important information
 permalink: /about/
 ---
 
@@ -21,7 +21,7 @@ permalink: /about/
 - Egg everything bagels
 
 
-#Less important information
+#Arguably less important information
 ---
 
 **Fun facts**
@@ -32,7 +32,7 @@ permalink: /about/
 - I lived in Vienna for six months.
 
 
-**Things I can say in German after living in Vienna for six months**
+**Things I can say in German**
 
 - "Where is the train station?"
 - "I would like one kilo of carrots."
@@ -40,7 +40,7 @@ permalink: /about/
 
 **Favorite joke related to my last name being "Dill"**
 
-- "Can you please Dill out."
+- "Hey, Dill out, okay?"
 
 
 # Contact
