@@ -43,7 +43,7 @@ permalink: /about/
 
 **Favorite joke related to my last name being "Dill"**
 
-- "Hey, Dill out, okay?"
+- "Everybody just Dill out."
 
 
 # Contact
