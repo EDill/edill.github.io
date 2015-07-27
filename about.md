@@ -42,9 +42,11 @@ permalink: /about/
 
 - [This.](http://i.imgur.com/QygT53q.jpg)
 
-**Favorite joke related to my last name being "Dill"**
+**A sampling of jokes using my last name**
 
-- "Everybody just Dill out."
+- "Everybody Dill out."
+- "Dill with it."
+- "What a dillemma!"
 
 
 # Contact
