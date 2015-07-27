@@ -38,7 +38,7 @@ permalink: /about/
 - "I would like one kilo of carrots."
 - "What is wrong with you?"
 
-**Current favorite gif**
+**Favorite gif** _Subject to change._
 - [I apologize in advance.](http://i.imgur.com/QygT53q.jpg)
 
 **Favorite joke related to my last name being "Dill"**
