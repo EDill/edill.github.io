@@ -5,15 +5,14 @@ permalink: /about/
 ---
 
 ---
+**Spirit animal**
+
+- Velociraptor
+
 
 **Current employment**
 
 - Associate Product Manager on the Discovery & Payments team at Paperless Post
-
-
-**Spirit animal**
-
-- Velociraptor
 
 
 **Favorite food**
