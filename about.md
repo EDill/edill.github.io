@@ -29,6 +29,7 @@ permalink: /about/
 - I've cleaned a triceratops.
     - [Proof](https://41.media.tumblr.com/744540a6e6cf8187e47b0aff4f91744a/tumblr_ns495cJB541rloozgo2_500.jpg) 
 - I know how to solder.
+- I was vegearian for the first thirteen years of my life.
 - I lived in Vienna for six months.
 
 
