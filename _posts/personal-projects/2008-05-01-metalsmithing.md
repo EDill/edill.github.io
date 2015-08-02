@@ -4,6 +4,8 @@ title: Metalsmithing
 categories: personal-projects
 ---
 
+Skidmore College - 2008 (?)
+
 ![](https://40.media.tumblr.com/6496dc0721bde1e56e6f64dac0bc7af5/tumblr_nsh823Vstf1rloozgo1_1280.jpg)
 
 Honestly, I struggled with metalsmithing. After two semesters of jewelry and metals I always though small--intricate designs, delicate seams, mirror finishes. This course was about utility, creating larger, sturdier items that you could actually use and wear. It was more about working with metals than it was designing metal. 
