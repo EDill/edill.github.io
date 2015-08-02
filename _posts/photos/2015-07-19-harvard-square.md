@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Harvard Square
+categories: photos
 ---
 
 ![](https://40.media.tumblr.com/db9ee4dbaa3507806fe55236e16959b2/tumblr_ns4g1c6TIP1rloozgo1_1280.jpg)
