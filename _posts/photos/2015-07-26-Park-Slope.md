@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Park Slope
+categories: photos
 ---
 
 ![](https://40.media.tumblr.com/00394a81bbe8b0cee720cfd15c1415e3/tumblr_ns4dhoMFgy1rloozgo1_1280.jpg)
