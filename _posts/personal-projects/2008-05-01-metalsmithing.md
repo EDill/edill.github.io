@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Metalsmithing
-categories: personal_projects
+categories: personal-projects
 ---
 
 Metalsmithing
