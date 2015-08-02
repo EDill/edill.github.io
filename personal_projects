@@ -1,0 +1,24 @@
+
+---
+layout: default
+title: Emma projects
+permalink: /personal_projects/
+---
+
+Stuff I do for myself is generally art, this site being the primary exception. 
+
+
+<div class="posts">
+  {% for post in site.categories['personal_projects'] %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
