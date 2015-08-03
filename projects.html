@@ -7,7 +7,7 @@ permalink: /projects/
 
 <h2>Professional Projects</h2>
 
-<p><div class="posts">
+<div class="posts">
   {% for post in site.categories['professional-projects'] %}
     <article class="post">
       <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
@@ -15,12 +15,12 @@ permalink: /projects/
       </div>
     </article>
   {% endfor %}
-</div></p>
+</div>
 <br>
 
 <h2>Personal Projects</h2>
 
-<p><div class="posts">
+<div class="posts">
   {% for post in site.categories['personal-projects'] %}
     <article class="post">
       <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
@@ -28,4 +28,4 @@ permalink: /projects/
       </div>
     </article>
   {% endfor %}
-</div></p>
+</div>
