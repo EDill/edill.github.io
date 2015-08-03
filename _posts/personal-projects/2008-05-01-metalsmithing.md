@@ -10,4 +10,4 @@ Skidmore College - Fall 2008
 
 Honestly, I struggled with metalsmithing. After two semesters of jewelry and metals I always though small--intricate designs, delicate seams, mirror finishes. This course was about utility, creating larger, sturdier items that you could actually use and wear. It was more about working with metals than it was designing metal. 
 
-It ended up being the worst grade I ever received in an art class, but I ended up with some pieces I'm really proud of. This is a broch I hammered out of copper wire, finished with a heat patina.
+It ended up being the worst grade I ever received in an art class, but I ended up with some pieces I'm really proud of. This is a brooch I hammered out of copper wire, finished with a heat patina.
