@@ -4,15 +4,14 @@ title: Projects
 permalink: /projects/
 ---
 
-<h1>Professional Projects</h1><br>
+<h1>Professional Projects</h1>
 <i>Paperless Post and beyond</i>
 
 <div class="posts">
   {% for post in site.categories['professional-projects'] %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       <div class="entry">
         {{ post.excerpt }}
       </div>
@@ -24,16 +23,15 @@ permalink: /projects/
 
 <hr>
 
-#
-<h1>Personal Projects</h1><br>
+
+<h1>Personal Projects</h1>
 <i>Spoiler alert: it's mostly art</i>
 
 <div class="posts">
   {% for post in site.categories['personal-projects'] %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       <div class="entry">
         {{ post.excerpt }}
       </div>
