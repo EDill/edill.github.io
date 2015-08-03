@@ -4,7 +4,7 @@ title: Metalsmithing
 categories: personal-projects
 ---
 
-Skidmore College - 2008 (?)
+Skidmore College - Fall 2008
 
 ![](https://40.media.tumblr.com/6496dc0721bde1e56e6f64dac0bc7af5/tumblr_nsh823Vstf1rloozgo1_1280.jpg)
 
