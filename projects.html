@@ -3,28 +3,33 @@ layout: projects
 title: Projects
 permalink: /projects/
 ---
+<style>
+p {
+    text-indent: 50px;
+}
+</style>
 
 <h2>Professional Projects</h2>
 
-<div class="posts">
+<p></p><div class="posts">
   {% for post in site.categories['professional-projects'] %}
     <article class="post">
-      <p><h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
       <div class="entry">
       </div>
     </article>
   {% endfor %}
-</div>
+</div></p>
 <br>
 
 <h2>Personal Projects</h2>
 
-</p><div class="posts">
+<p><div class="posts">
   {% for post in site.categories['personal-projects'] %}
     <article class="post">
-      <p><h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
       <div class="entry">
       </div>
     </article>
   {% endfor %}
-</div>
+</div></p>
