@@ -7,7 +7,7 @@ permalink: /about/
 ---
 **Current employment**
 
-- Associate Product Manager on the Discovery & Payments team at Paperless Post
+- Digital Product Manager @ <a href="www.mylola.com" target="_blank">LOLA</a>
 
 
 **Spirit animal**
@@ -46,7 +46,7 @@ permalink: /about/
 
 - "Everybody Dill out."
 - "Dill with it."
-- "What a dillemma!"
+
 
 
 # Contact
